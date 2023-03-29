@@ -1,1 +1,2 @@
-# IGI_Labs
+# Python Labs
+Daniil Barkovskiy gr. 153505
