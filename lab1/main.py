@@ -1,20 +1,4 @@
-import constants
-
-
-def calculate(x, y, op):
-    if op == constants.ADD:
-        return x + y
-    elif op == constants.SUB:
-        return x - y
-    elif op == constants.MUL:
-        return x * y
-    elif op == constants.DIV:
-        if y == 0:
-            return "Can't divide by 0"
-        else:
-            return x / y
-    else:
-        return "Invalid operator"
+import calculator
 
 
 print("HELLO WORLD!")
@@ -24,4 +8,10 @@ print("Enter B:")
 b = int(input())
 print("Enter operator:")
 operator = input()
-print("Result:", calculate(a, b, operator))
+print("Result:", calculator.calculate(a, b, operator))
+numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+even_numbers = []
+for i in range(len(numbers)):
+    if numbers[i] % 2 == 0:
+        even_numbers.append(numbers[i])
+print("Even numbers from list:", even_numbers)
