@@ -1,5 +1,0 @@
-apple
-3
-cherry
-remove
-banana

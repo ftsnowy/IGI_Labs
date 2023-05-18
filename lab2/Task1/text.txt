@@ -1,4 +1,0 @@
-A1b2c3 is a word that contains both letters and numbers. It's important to note that only both letters and numbers are
-processed, so other characters like symbols and punctuation marks won't be included. Abbreviations can also appear in
-the input, and they will be processed accordingly. For example, the abbreviation etc. is a valid word in this context.
-3 2 1 3 doesn't contain any words. Some abbreviations are ms., mrs., i.e.. Surely this is useful information, isn't it?
