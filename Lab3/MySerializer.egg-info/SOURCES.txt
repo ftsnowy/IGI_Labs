@@ -1,0 +1,14 @@
+setup.py
+MySerializer/__init__.py
+MySerializer/base.py
+MySerializer/lib.py
+MySerializer/serialize.py
+MySerializer.egg-info/PKG-INFO
+MySerializer.egg-info/SOURCES.txt
+MySerializer.egg-info/dependency_links.txt
+MySerializer.egg-info/entry_points.txt
+MySerializer.egg-info/top_level.txt
+MySerializer/utils/__init__.py
+MySerializer/utils/constants.py
+MySerializer/utils/helpers.py
+MySerializer/utils/templates.py
